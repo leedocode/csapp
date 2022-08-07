@@ -1,2 +1,0 @@
-# csapp
-init file
